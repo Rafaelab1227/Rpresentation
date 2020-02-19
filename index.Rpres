@@ -1,7 +1,7 @@
 index
 ========================================================
 author: Rafaela Becerra
-date: 
+date: February 19, 2020
 autosize: true
 
 First Slide
